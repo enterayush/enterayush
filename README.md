@@ -1,5 +1,5 @@
 <h2> Hi, I'm Ayush Awasthi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src=https://giphy.com/gifs/PizzaNinjas-coding-pizza-ninjas-pizzaninjas-jBOOXxSJfG8kqMxT11" width="230">
+<img align='right' src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjZwaW5rcTNuMTF6OGE3aDZwdTdqbXc2emY3Zm4zeWJ0ZzFrcmQ4NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="230">
 <p><em>Student at <a href="https://www.galgotiasuniversity.edu.in/">Galgotias University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> 
 </em></p>
 
