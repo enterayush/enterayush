@@ -12,13 +12,13 @@
 ```javascript
 const ayush = {
   pronouns: "he" | "him",
-  code: [Java, Python, JavaScript, HTML, CSS, C, ],
+  code: [Java, Python, JavaScript, HTML, CSS, C ],
   tools: [React, Redux, Node, Express, Git],
   techCommunities: {
                         Member: "Google Developer Club",
                         Member: "Astronomay Club";
                       },
- Challenge: "I am doing the 75 Days LeetCode challenge."
+ Challenge: "Let's become LeetCode contest Knight ⚔️."
 }
 ```
 
